@@ -2,3 +2,7 @@
 *.csv
 *.tsv
 *.txt
+*.h5
+*.png
+*.jpg
+*.mtx
